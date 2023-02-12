@@ -8,6 +8,6 @@ public class ClothesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ClothesApplication.class, args);
+		System.out.println("Hello World");
 	}
-
 }
